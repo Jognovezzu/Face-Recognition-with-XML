@@ -9,5 +9,5 @@ Algorithm for the Computer Vision Discipline.
   
   
  <p><p>
-  Libs:
+  Libs:<p>
   OpenCV: https://github.com/opencv/opencv-python
